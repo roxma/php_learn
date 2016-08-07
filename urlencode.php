@@ -18,3 +18,8 @@ echo "rawencoded:[$rawencoded]\n";
 // encoded:[Hello+world%21]
 // rawencoded:[Hello%20world%21]
 
+// $data = ["foo"=>"bar", "hei"=>"ha"];
+// var_dump($data);
+// PHP Warning:  urlencode() expects parameter 1 to be string, array given in /data/roxma/git/php_learn/urlencode.php on line 24
+// $encoded = urlencode($data);
+// echo "encoded data[$encoded]\n";
