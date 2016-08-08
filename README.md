@@ -1,6 +1,6 @@
 # PHP 学习笔记
 
-## PHP 7 安装
+## CentOS 安装 PHP 7
 
 使用 remirepo。remi 是 PECL 的成员，值得信赖。
 
