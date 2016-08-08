@@ -1,9 +1,6 @@
-# PHP CentOs7 开发环境搭建
+# PHP 学习笔记
 
-### 安装 php
-
-
-# PHP 7 安装
+## PHP 7 安装
 
 使用 remirepo。remi 是 PECL 的成员，值得信赖。
 
