@@ -87,6 +87,7 @@ zip      1.13.3   stable
 
 ```bash
 pear install doc.php.net/pman
+pear install Archive_Tar Console_Getopt PEAR PEAR_Manpages Structures_Graph XML_Util
 # pecl install zip memcache
 yum install php70-php-pecl-zip  php70-php-pecl-memcache
 ```
